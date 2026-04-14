@@ -22,7 +22,6 @@ while True:
         print(f"{ROJO}Cerrando sistema...{RESET}")
         time.sleep(1)
         break
-
     respuesta = lector.buscar(prompt)
 
     print(f"{CIAN}[Respuesta]:{RESET}")
